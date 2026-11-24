@@ -1,0 +1,3 @@
+EMP101|ayush|0|0
+EMP102|naman|1|0
+EMP103|Ram|0|0
